@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "manuscript-clusterer"
+version = "0.0.0"
+dependencies = [
+    "loguru==0.7.2",
+    "fastapi==0.115.5",
+    "httpx==0.27.2",
+    "pandas==2.2.3",
+    "prince==0.14.0",
+    "pydantic-settings==2.6.1",
+    "pydantic[standard]==2.10.0",
+]
+requires-python = ">=3.9"
+authors = [
+  {name = "Sophie Robert-Hayek", email = "sophie.robert@univ-lorraine.fr"},
+]
+maintainers = [
+  {name = "Sophie Robert-Hayek", email = "sophie.robert@univ-lorraine.fr"},
+]
+description = "Library to compute the distance between trees"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+keywords = ["NLP", "clustering"]
+classifiers = [
+  "Programming Language :: Python"
+]
+
+[project.optional-dependencies]
+ci = [
+"pytest==8.3.*",
+]

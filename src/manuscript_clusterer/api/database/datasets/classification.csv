@@ -1,0 +1,19 @@
+id,fullname,wisse,von-soden,text-type,aland-cat,date
+20001,Sinaïticus,B,H,alexandrinian,I,4
+20002,Alexandrinus,Pi_ka,Ika,byzantine,III,5
+20003,Vaticanus,B,H,alexandrinian,I,4
+20004,Ephraemi Rescriptus,Mixed,H,alexandrinian,II,5
+20005,Bezae,B,Ia,western,IV,5
+20019,Regius,B,H,alexandrinian,II,8
+20032,Washingtonianus,Kx,H,alexandrinian,III,5
+20038,Coridethianus,Mix,Ia,byzantine,II,5
+30001,Basilensis,1,Ih,caesarean,III,12
+30013,MS13,13,Il,caesarean,III,13
+30018,MS18,Kr,Kr,byzantine,V,14
+30022,MS22,22b,Ih,ceasarean,?,12
+30033,MS33,B,H,alexandrian,I,9
+30069,MS69,13,Il,ceasarean,III,15
+30079,MS79,Kx,,byzantine/mixed,?,15
+30343,MS343,343,Kx,byzantine,V,11
+100P4,P4,,,alexandrian,I,3
+10P42,P42,,,alexandrian,II,7
